@@ -18,4 +18,4 @@ http.createServer(function (request, response){
     response.end();
 }).listen(8000);
 
-console.log('Server running on http://localhost:8000');
+console.log("Server berjalan di http://localhost:8000");
